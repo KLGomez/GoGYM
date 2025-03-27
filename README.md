@@ -64,4 +64,4 @@ Fin
 ```
 
 ## 📩 Contacto
-Si tienes preguntas o sugerencias, contáctanos en [somosgogym@mail.com].
+Si tienes preguntas o sugerencias, contáctanos en [somosgogym@gmail.com].
